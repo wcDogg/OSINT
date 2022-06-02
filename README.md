@@ -1,8 +1,10 @@
 # Dorking: Advanced Search Operators
 
-> [Dorking is] a technique used by newsrooms, investigative organizations, security auditors as well as tech savvy criminals to query various search engines for information hidden on public websites and vulnerabilities exposed by public servers. Dorking is a way of using search engines to their full capacity to penetrate web-based services to depths that are not necessarily visible at first.
+WIP - This resource isn't complete. 
 
->> ~ Exposing the Invisible, [Smart Searching with GoogleDorking](https://exposingtheinvisible.org/en/guides/google-dorking/)
+"Dorking a technique used by newsrooms, investigative organizations, security auditors as well as tech savvy criminals to query various search engines for information hidden on public websites and vulnerabilities exposed by public servers. Dorking is a way of using search engines to their full capacity to penetrate web-based services to depths that are not necessarily visible at first."
+
+~ Exposing the Invisible, [Smart Searching with GoogleDorking](https://exposingtheinvisible.org/en/guides/google-dorking/)
 
 ## Dork Resources
 
@@ -24,7 +26,6 @@
 
 ### [Which Search Engine?](which-search-engine.md) 
 
-* **TL;DR** For OSINT / InfoSec dorking, use Google. 
 
 ### [Google Advanced Search Operators](google.md)
 
