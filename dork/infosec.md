@@ -64,8 +64,4 @@ as_q=
 intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
 ```
 
-**H**
-```
-("qa")
-```
 
